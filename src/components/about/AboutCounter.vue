@@ -7,7 +7,7 @@ export default {
 	data: () => {
 		return {
 			experienceTitle: 'Years of experience',
-			githubTitle: 'Stars on GitHub',
+			githubTitle: 'Connections on LinkedIn',
 			feedbackTitle: 'Positive feedback',
 			projectsTitle: 'Projects completed',
 		};
@@ -26,7 +26,7 @@ export default {
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="12"
+					:endAmount="8"
 					:duration="1"
 					:autoinit="true"
 					@finished="alert(`Counting finished!`)"
@@ -45,7 +45,7 @@ export default {
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="20"
+					:endAmount="1"
 					:duration="1"
 					suffix="k+"
 					:autoinit="true"
@@ -63,7 +63,7 @@ export default {
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="92"
+					:endAmount="95"
 					:duration="1"
 					suffix="%"
 					:autoinit="true"
@@ -78,7 +78,7 @@ export default {
 			</div>
 
 			<!-- Projects completed counter -->
-			<div class="mb-20 sm:mb-0">
+			<!-- <div class="mb-20 sm:mb-0">
 				<counter
 					ref="counter"
 					:startAmount="0"
@@ -93,7 +93,7 @@ export default {
 				>
 					{{ projectsTitle }}
 				</span>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </template>

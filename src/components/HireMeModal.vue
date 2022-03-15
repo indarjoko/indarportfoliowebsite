@@ -115,10 +115,10 @@ export default {
 											py-2
 											sm:py-2.5
 											text-white
-											bg-indigo-500
-											hover:bg-indigo-600
+											bg-blue-500
+											hover:bg-blue-600
 											rounded-md
-											focus:ring-1 focus:ring-indigo-900 duration-500"
+											focus:ring-1 focus:ring-blue-700 duration-500"
 											type="submit"
 											aria-label="Submit Request"
 										/>
