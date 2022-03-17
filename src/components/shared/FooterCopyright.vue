@@ -4,7 +4,7 @@ export default {
 		return {
 			copyrightDate: new Date().getFullYear(),
 			projectName: 'Indar Joko Portfolio',
-			author: 'INDAR',
+			author: 'Indar',
 		};
 	},
 };
