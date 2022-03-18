@@ -139,6 +139,7 @@ export default {
 				v-for="project in filteredProjects"
 				:key="project.id"
 				:project="project"
+				href="https://github.com/indarjoko/portfolio"
 			/>
 		</div>
 	</section>
