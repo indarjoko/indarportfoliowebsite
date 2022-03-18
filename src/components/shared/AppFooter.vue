@@ -30,6 +30,12 @@ export default {
 					icon: 'instagram',
 					url: 'https://instagram.com/indarjp89',
 				},
+				{
+					id: 5,
+					name: 'Telegram',
+					icon: 'message-circle',
+					url: 'https://t.me/indarjp',
+				},
 			],
 		};
 	},
