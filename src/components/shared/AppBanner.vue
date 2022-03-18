@@ -29,14 +29,14 @@ export default {
 		<!-- Banner left contents -->
 		<div class="w-full md:w-1/3 text-left">
 			<h1
-				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
+				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light"
 			>
 				Hi, I am Indar Joko Prasetyo
 			</h1>
 			<p
-				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
+				class="font-general-medium mt-4 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-500"
 			>
-				UI/UX Designer & Frontend Enthusiast
+				A UI/UX Designer, Frontend & Open Source Enthusiast
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
