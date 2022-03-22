@@ -20,9 +20,9 @@ export default {
 				},
 				{
 					id: 3,
-					name: 'Codepen',
-					icon: 'codepen',
-					url: 'https://codepen.io/indarjoko',
+					name: 'LinkedIn',
+					icon: 'linkedin',
+					url: 'https://linkedin.com/in/indarjoko',
 				},
 				{
 					id: 4,
@@ -32,15 +32,15 @@ export default {
 				},
 				{
 					id: 5,
-					name: 'Telegram',
-					icon: 'message-circle',
-					url: 'https://t.me/indarjp',
+					name: 'Codepen',
+					icon: 'codepen',
+					url: 'https://codepen.io/indarjoko',
 				},
 				{
 					id: 6,
-					name: 'LinkedIn',
-					icon: 'linkedin',
-					url: 'https://linkedin.com/in/indarjoko',
+					name: 'Telegram',
+					icon: 'message-circle',
+					url: 'https://t.me/indarjp',
 				},
 			],
 		};
