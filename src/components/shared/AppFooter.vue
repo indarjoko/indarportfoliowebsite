@@ -36,6 +36,12 @@ export default {
 					icon: 'message-circle',
 					url: 'https://t.me/indarjp',
 				},
+				{
+					id: 6,
+					name: 'LinkedIn',
+					icon: 'linkedin',
+					url: 'https://linkedin.com/in/indarjoko',
+				},
 			],
 		};
 	},
@@ -60,7 +66,7 @@ export default {
 				<p
 					class="font-general-semibold text-3xl sm:text-4xl font-semibold text-primary-dark dark:text-primary-light mb-5"
 				>
-					Follow Me
+					Connect with Me
 				</p>
 				<ul class="flex gap-4 sm:gap-8">
 					<a
