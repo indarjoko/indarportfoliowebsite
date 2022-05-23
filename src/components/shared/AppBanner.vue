@@ -40,8 +40,8 @@ export default {
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
-					download="Indar_Joko_CV_2022.pdf"
-					href="/files/Indar_Joko_CV_2022.pdf"
+					download="Indar_Joko_P-CV_Resume_2022.pdf"
+					href="/files/Indar_Joko_P-CV_Resume_2022.pdf"
 					class="flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-blue-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-blue-100 focus:ring-1 focus:ring-blue-700 hover:bg-blue-500 text-gray-500 hover:text-white duration-500"
 					aria-label="Download Resume"
 				>
